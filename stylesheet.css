@@ -88,7 +88,7 @@ body {
   .container {
     display: flex;
     flex-direction: column;
-    margin: 5rem 33rem;
+    margin: 3rem 33rem;
     background-color: var(--medium-dark-blue);
     padding: 1rem 1rem;
     border-radius: 1rem;
