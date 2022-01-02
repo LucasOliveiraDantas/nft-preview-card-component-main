@@ -106,7 +106,7 @@ body {
   .img-hover {
     position: absolute;
     display: block;
-    margin-top: -21.3rem;
+    margin-top: -22rem;
     opacity: 0;
     visibility: hidden;
     transition: opacity 0.5s;
@@ -114,6 +114,7 @@ body {
   .img-container:hover .img-hover {
     opacity: 1;
     visibility: visible;
+    width: 350px;
     background-color: hsla(178, 100%, 50%, 0.432);
     padding: 9rem 9rem;
     border-radius: 1rem;
